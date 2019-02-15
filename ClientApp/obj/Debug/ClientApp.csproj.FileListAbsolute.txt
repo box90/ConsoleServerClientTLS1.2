@@ -1,0 +1,9 @@
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\AppManager.exe.config
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\AppManager.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\AppManager.pdb
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ClientApp.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ServerApp.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ClientApp.pdb
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ClientApp.exe.config
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ServerApp.pdb
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\bin\Debug\ServerApp.exe.config
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\obj\Debug\AppManager.csprojAssemblyReference.cache
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\obj\Debug\AppManager.csproj.CoreCompileInputs.cache
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\obj\Debug\AppManager.csproj.CopyComplete
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\obj\Debug\AppManager.exe
+C:\Users\bossima1\source\repos\ConsoleServerClientTLS1.2\AppManager\obj\Debug\AppManager.pdb
